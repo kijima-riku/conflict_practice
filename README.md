@@ -1,4 +1,5 @@
-#これはコンフリクトを解決する練習のためのリポジトリです
+#これはコンフリクトを解決する練習のためのリポジトリです。
+
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
